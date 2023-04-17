@@ -25,7 +25,7 @@
   --interactive-active: #b5bad1;
   --interactive-muted: #55576b; 
   --channels-default: var(--text-muted);
-  --background-primary: red;
+  --background-primary: #1a1b26;
   --background-secondary: #171722;
   --background-secondary-alt: #13131a;
   --background-tertiary: #16161e;
