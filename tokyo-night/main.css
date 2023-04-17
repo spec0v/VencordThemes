@@ -25,7 +25,7 @@
   --interactive-active: #b5bad1;
   --interactive-muted: #55576b; 
   --channels-default: var(--text-muted);
-  --background-primary: red;
+  --background-primary: #1a1b26;
   --background-secondary: #171722;
   --background-secondary-alt: #13131a;
   --background-tertiary: #16161e;
@@ -179,6 +179,7 @@
 .mentionButton-3C5YMI {
   color: var(--accent-color);
 }
+/*
 .scrollableContainer-15eg7h {
   border-radius: 5px;
   border-bottom: 2px var(--background-tertiary) solid;
@@ -188,6 +189,7 @@
 .scrollableContainer-15eg7h:focus-within {
   border-bottom-color: var(--accent-color);
 }
+*/
 .emptyChannelIcon-1YdEz2 {
   background-color: var(--background-tertiary);
 }
